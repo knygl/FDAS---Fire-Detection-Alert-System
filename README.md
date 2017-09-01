@@ -7,7 +7,7 @@ Then it does:
 Characterization of Fire,
 Identification of fire potential,
 Setting the size (it is important to refer to the cover of the fire image in the whole picture - varies according to the angle of the lens and distance, hence the parameter differs from camera to camera, personal) fire vs. fire,
-Growth rate = A parameter for separating the Lag BaOmer bonfire from arson and fire
+Growth rate = A parameter for separating the autorized bonfire from arson and fire
 Day / Night - Relating to the radiation intensity between different lighting conditions
  
 Algorithm and Tracking -
